@@ -104,7 +104,8 @@ public class SearchInArray{
     "Conan O’Brien",
     "Ellen DeGeneres",
     "Rosie O’Donnell",
-    "Whoopi Goldberg"
+    "Whoopi Goldberg",
+    "Behin Sam"
     };
 
     System.out.print("Enter the person name you want to search:");
@@ -129,5 +130,6 @@ public class SearchInArray{
         
     
     scanner.close();
+
 
 }}
